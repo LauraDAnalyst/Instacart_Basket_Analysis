@@ -15,6 +15,8 @@ The purpose of this project is to analyze the buying patterns of Instacart shopp
 
 01 Project Management: A brief describing the project scope
 
+02 Data: Original Instacart data as sourced from Kaggle
+
 03 Scripts: Python code for analysis and visualization tasks
 
 04 Analysis: Supporting data and visualizations
